@@ -1,0 +1,4 @@
+{
+    "app.welcome": "Bienvenido, {name}",
+    "app.test": "Hola"
+}
